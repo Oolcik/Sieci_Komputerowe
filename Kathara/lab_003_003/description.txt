@@ -1,0 +1,11 @@
+Realization of computer network with binary tree topology:
+               pc00
+             /       \
+           /           \
+        pc01           pc02 
+         /               \ 
+         .               .
+         .               .
+         .               .           
+      /    \           /   \
+    pc07  pc08  ..   pc13  pc14

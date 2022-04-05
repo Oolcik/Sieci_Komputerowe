@@ -1,0 +1,5 @@
+Realization off computer network with circular topology:
+pc00 -- pc01 -- pc02 -- ...... -- pc06
+  |                                |
+  |                                |
+pc15 -- pc14 -- pc13 -- ...... -- pc07
